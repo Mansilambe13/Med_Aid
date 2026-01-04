@@ -1,5 +1,5 @@
 
-####the latest geenrated code 
+####the latest generated code 
 import streamlit as st
 from PyPDF2 import PdfReader
 import fitz
@@ -233,3 +233,4 @@ with tab3:
             st.subheader("GPT Analysis of X-ray:")
 
             st.write(gpt_reply)
+
