@@ -1,3 +1,5 @@
+
+####the latest geenrated code 
 import streamlit as st
 from PyPDF2 import PdfReader
 import fitz
@@ -229,4 +231,5 @@ with tab3:
             with st.spinner("Generating GPT analysis..."):
                 gpt_reply = gemini_model.generate_content(prompt).text
             st.subheader("GPT Analysis of X-ray:")
+
             st.write(gpt_reply)
