@@ -1,3 +1,6 @@
+🩺 MedAidGPT — AI-Powered Medical Assistance Platform
+
+
 MedAidGPT is a Streamlit-based Medical AI application that combines LLM-powered medical chat, PDF prescription analysis with OCR, and AI-based Chest X-ray disease detection into a single unified interface.
 
 
