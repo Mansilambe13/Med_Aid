@@ -1,0 +1,35 @@
+# Environment
+medenv/
+.env
+*.env
+
+# Model weights (too large for GitHub)
+*.h5
+*.hdf5
+*.weights
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Dataset files (too large for GitHub)
+*.csv
+!metrics_output.csv
+images-small/
+Chest-X-Ray-Medical-Diagnosis-master/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

@@ -1,0 +1,16 @@
+Condition,AUROC,Test_Positives
+Cardiomegaly,0.7808,50
+Emphysema,0.7661,56
+Effusion,0.756,53
+Hernia,0.7264,50
+Infiltration,0.6651,59
+Mass,0.7516,60
+Nodule,0.6272,54
+Atelectasis,0.7421,60
+Pneumothorax,0.7804,55
+Pleural_Thickening,0.7035,58
+Pneumonia,0.6589,50
+Fibrosis,0.6474,61
+Edema,0.813,50
+Consolidation,0.7368,53
+MEAN,0.7254,
